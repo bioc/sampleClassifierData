@@ -1,8 +1,8 @@
 Package: sampleClassifierData
 Type: Package
 Title: Pre-processed data for use with the sampleClassifier package
-Version: 1.19.0
-Date: 2017-01-23
+Version: 1.19.1
+Date: 2021-11-21
 Author: Khadija El Amrani
 Maintainer: Khadija El Amrani <khadija.el-amrani@charite.de>
 Description: This package contains two microarray and two RNA-seq
